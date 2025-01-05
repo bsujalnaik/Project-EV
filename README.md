@@ -42,3 +42,5 @@ Follow these steps to run Project EV locally:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/bsujalnaik/Project-EV.git
+---
+You can explore the project here: [Project EV](https://bsujalnaik.github.io/Project-EV/)
